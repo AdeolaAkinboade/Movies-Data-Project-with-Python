@@ -22,6 +22,7 @@ HYPOYHESIS
 
 
 There will be a high and positive correlation between a movie's gross profit and budget
+
 There will be a high correlation between a movie's gross profit and the company's name
 
 This will, therefore, mean that a company's reputation and high investment in its movie will more likely lead to more profitability from it.
